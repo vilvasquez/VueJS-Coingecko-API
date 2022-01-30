@@ -1,6 +1,6 @@
 # VueJS & Coingecko API
 
-# Welcome to my cryptocurrency market price display application 📈🚀 
+# aplicación de visualización de precios de mercado de criptomonedas 📊🦎
 
 ## Project setup
 ```

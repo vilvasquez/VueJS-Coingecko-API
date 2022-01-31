@@ -28,7 +28,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # Desktop view
 
-![](computer-size-screen-view.png)
+![](coo.jpg)
 
 
 # Desktop view using filer
